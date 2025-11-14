@@ -8,11 +8,13 @@ Turning ideas into code. Always up for a challenge! 🚀
   <div style="flex: 1; display: inline-block;">
     <!-- GitHub profile cards -->
     <a href="https://github.com/kiyoshi2000">
-      <img height="140" src="https://github-readme-stats.vercel.app/api?username=kiyoshi2000&show_icons=true&theme=tokyonight&count_private=true" />
+      <img height="140" src="https://github-readme-stats.vercel.app/api?username=kiyoshi2000&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=True"/>
       <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiyoshi2000&layout=compact&langs_count=10&theme=tokyonight" />
     </a>
   </div>
 </div>
+
+
 
 ---
 
